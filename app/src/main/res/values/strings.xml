@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Pertemuan2</string>
     <string name="myname">Azzahra Dinda S</string>
+    <string name="indonesia">INDONESIA</string>
+    <string name="title">PULAU SERIBU</string>
+    <string name="description">Description</string>
+    <string name="first">Green bridge from Seatle is really awesome to get the hot spot for traveller who is traveling right there with their families.</string>
+    <string name="second">Simply dummy text something is nice but you have to aware about the branding of the product itself so keep it happy and make it more fancy.</string>
 </resources>
